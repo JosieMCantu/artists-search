@@ -1,13 +1,15 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import SearchArtist from './SearchArtist';
+import {Link} from 'react-router-dom';
 
 
 function SearchArtistList({artist}) {
     return (
-        <ul>{artist.map((item) => (
-            <li key={item.id}>
+        <ul aria-label='search'>{artist.map((item) => (
+            <li key={item.id}><Link to='/:id'>
                 <SearchArtist {...item} />
+                </Link>
             </li>
         ))}
         </ul>

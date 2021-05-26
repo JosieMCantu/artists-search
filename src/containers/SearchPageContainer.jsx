@@ -1,5 +1,5 @@
 import React from 'react';
-import {useState} from 'react';
+import {useState, useEffect} from 'react';
 import SearchArtistList from '../components/search/SearchArtistList';
 import SearchControls from '../components/search/SearchControls';
 
@@ -26,6 +26,7 @@ const SearchPageContainer = () => {
 
     const handleSubmit = async (event) => {
         event.preventDefault();
+        setLoading(true);
         const newArtist = await getArtist(url);
         setArtist(newArtist);
         setLoading(false);

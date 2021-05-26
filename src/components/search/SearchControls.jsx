@@ -3,11 +3,11 @@ import PropTypes from 'prop-types'
 
 function SearchControls({url, onSubmit, onChange}) {
     return (
-        <form onSubmit={onSubmit}>Search for an artist
-            <label>
-                <input onChange={onChange} type='text' name='search' value={url} />
-                <button>Search</button>
-            </label>
+        <form onSubmit={onSubmit}> 
+            <label htmlFor='search' aria-label='search-bar'>Search for an artist:
+                <input id='search' onChange={onChange} type='text' name='search' value={url} /></label>
+                <button aria-label='button'>Search</button>
+            
         </form>
     )
 }
@@ -18,6 +18,6 @@ SearchControls.propTypes = {
     onChange: PropTypes.func.isRequired,
 }
 
-export default SearchControls
+export default SearchControls;
 
 
