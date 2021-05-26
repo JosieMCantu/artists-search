@@ -1,5 +1,4 @@
 export const getArtist = async (url) => {
-  // eslint-disable-next-line max-len
   const res = await fetch(
     `http://musicbrainz.org/ws/2/artist?query=${url}&fmt=json&limit=25`
   );
