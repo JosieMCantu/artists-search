@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-// import { useParams } from 'react-router-dom';
+import { useParams } from 'react-router-dom';
 import Lyrics from '../components/lyrics/Lyrics'; 
 import { fetchLyrics }  from '../LyricService/LyricApi'; 
 
@@ -8,14 +8,10 @@ const LyricsContainer = () => {
   const [loading, setLoading] = useState(true); 
   const [lyrics, setLyrics] = useState(''); 
 
-  // const { artist, title } = useParams();
-  
-  const artist = 'Coldplay'; 
-  const title = 'Adventure of a Lifetime'; 
-
+  const { artistName, title } = useParams();
 
   useEffect (() => {
-    fetchLyrics(artist, title)
+    fetchLyrics(artistName, title)
       .then(setLyrics)
       .finally(() => setLoading(false)); 
   }, []);

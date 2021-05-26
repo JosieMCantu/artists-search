@@ -4,7 +4,7 @@ import Pagination from '../components/pagination/Pagination';
 import { useParams } from 'react-router-dom';
 
 const ArtistContainer = () => {
-  const { id } = useParams();
+  const { artistName, id } = useParams();
   const [artist, setArtist] = useState([]);
   const [loading, setLoading] = useState(true);
   const [currentPage, setCurrentPage] = useState(1);
@@ -51,7 +51,7 @@ const ArtistContainer = () => {
   ) : (
     <>
       <main>
-        <AlbumList albums={paginatedAlbums} artistId={id} />
+        <AlbumList albums={paginatedAlbums} artistId={id} artistName={artistName} />
       </main>
       <Pagination
         onClick={handleButtonChange}

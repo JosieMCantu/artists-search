@@ -4,10 +4,10 @@ import PropTypes from 'prop-types';
 function SearchArtist(artist) {
     return (
         <>
-            <ul>
-                <li>Name: {artist.name}</li>
-                <li>Id: {artist.id}</li>
-            </ul>
+           
+                <p>Name: {artist.name}</p>
+                <p>Id: {artist.id}</p>
+            
         </>
     )
 }

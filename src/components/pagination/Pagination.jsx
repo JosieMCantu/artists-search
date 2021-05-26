@@ -1,4 +1,5 @@
 import React from 'react';
+import  PropTypes from 'prop-types';
 
 export default function Pagination({ onClick, currentPage, lastPage }) {
   return (
@@ -23,3 +24,9 @@ export default function Pagination({ onClick, currentPage, lastPage }) {
     </nav>
   );
 }
+
+Pagination.propTypes = {
+  onClick: PropTypes.func.isRequired, 
+  currentPage: PropTypes.number.isRequired,
+  lastPage: PropTypes.number.isRequired
+}; 
