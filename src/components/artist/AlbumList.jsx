@@ -3,12 +3,12 @@ import Album from './Album';
 import PropTypes from 'prop-types';
 import { Link } from 'react-router-dom';
 
-function AlbumList({ albums }) {
+function AlbumList({ albums, artistId }) {
   return (
     <>
       <ul aria-label="albums">
         {albums.map((album) => (
-          <Link key={album.id} to={`/albums/${album.id}`}>
+          <Link key={album.id} to={`/albums/${artistId}/${album.id}`}>
             <li>
               <Album {...album} />
             </li>

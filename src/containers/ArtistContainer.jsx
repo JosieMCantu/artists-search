@@ -51,7 +51,7 @@ const ArtistContainer = () => {
   ) : (
     <>
       <main>
-        <AlbumList albums={paginatedAlbums} />
+        <AlbumList albums={paginatedAlbums} artistId={id} />
       </main>
       <Pagination
         onClick={handleButtonChange}
