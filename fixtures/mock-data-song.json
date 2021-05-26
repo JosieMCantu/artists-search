@@ -1,0 +1,22 @@
+{
+    "recording-count": 2,
+    "recordings": [
+        {
+            "first-release-date": "2003-12-04",
+            "title": "h³æ",
+            "disambiguation": "",
+            "length": 922546,
+            "id": "5aff6309-2e02-4a47-9233-32d7dcc9a960",
+            "video": false
+        },
+        {
+            "disambiguation": "",
+            "title": "æ³o",
+            "first-release-date": "2003-12-04",
+            "video": false,
+            "id": "af87f070-238b-46c1-aa3e-f831ab91fa20",
+            "length": 974546
+        }
+    ],
+    "recording-offset": 0
+}
