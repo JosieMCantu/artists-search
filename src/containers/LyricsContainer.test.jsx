@@ -27,7 +27,7 @@ describe('Lyrics Container', () => {
       <LyricsContainer />
     </MemoryRouter>); 
 
-    const lyrics = await screen.findByAltText('lyrics');
+    const lyrics = await screen.findByRole('article');
     expect(lyrics).toMatchSnapshot();
   }); 
 });

@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types'; 
 
 const Lyrics = ({ lyrics }) => (
-  <article alt="lyrics">{lyrics}</article>
+  <article>{lyrics}</article>
 ); 
 
 Lyrics.propTypes = {
