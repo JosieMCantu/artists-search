@@ -5,6 +5,7 @@ import SearchPageContainer from '../../containers/SearchPageContainer';
 import ArtistContainer from '../../containers/ArtistContainer';
 import SongsContainer from '../../containers/SongsContainer';
 import LyricsContainer from '../../containers/LyricsContainer';
+import './App.css';
 
 export default function App() {
   return (

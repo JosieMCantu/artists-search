@@ -18,7 +18,7 @@ function Album({ title, date, id }) {
         width="300px"
       />
 
-      <li>{date}</li>
+      <p>{date}</p>
     </>
   );
 }

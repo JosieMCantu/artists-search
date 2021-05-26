@@ -24,10 +24,10 @@ AlbumList.propTypes = {
     PropTypes.shape({
       title: PropTypes.string.isRequired,
       id: PropTypes.string.isRequired,
-      date: PropTypes.string.isRequired,
-      artistName: PropTypes.string.isRequired
-    })
-  ),
+      date: PropTypes.string.isRequired
+    }),
+  ).isRequired,
+  artistName: PropTypes.string.isRequired
 };
 
 export default AlbumList;

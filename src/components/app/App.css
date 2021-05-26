@@ -1,0 +1,13 @@
+img {
+  height: 200px;
+  width: 200px;
+}
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+li {
+  list-style-type: none;
+}
