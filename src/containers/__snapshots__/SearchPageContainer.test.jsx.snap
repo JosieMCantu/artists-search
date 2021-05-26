@@ -6,402 +6,142 @@ exports[`SearchPageContainer tests renders the search page to the screen 1`] = `
 >
   <li>
     <a
-      href="/:id"
+      href="/Prince/070d193a-845c-479f-980e-bef15710653e"
     >
-      <ul>
-        <li>
-          Name: 
-          Prince
-        </li>
-        <li>
-          Id: 
-          070d193a-845c-479f-980e-bef15710653e
-        </li>
-      </ul>
+      <p>
+        Name: 
+        Prince
+      </p>
+      <p>
+        Id: 
+        070d193a-845c-479f-980e-bef15710653e
+      </p>
     </a>
   </li>
   <li>
     <a
-      href="/:id"
+      href="/Prince/4d52342d-0584-43b3-86e2-e356221c2804"
     >
-      <ul>
-        <li>
-          Name: 
-          Prince
-        </li>
-        <li>
-          Id: 
-          4d52342d-0584-43b3-86e2-e356221c2804
-        </li>
-      </ul>
+      <p>
+        Name: 
+        Prince
+      </p>
+      <p>
+        Id: 
+        4d52342d-0584-43b3-86e2-e356221c2804
+      </p>
     </a>
   </li>
   <li>
     <a
-      href="/:id"
+      href="/Prince/cdc0fff7-54cf-4052-a283-319b648670fd"
     >
-      <ul>
-        <li>
-          Name: 
-          Prince
-        </li>
-        <li>
-          Id: 
-          cdc0fff7-54cf-4052-a283-319b648670fd
-        </li>
-      </ul>
+      <p>
+        Name: 
+        Prince
+      </p>
+      <p>
+        Id: 
+        cdc0fff7-54cf-4052-a283-319b648670fd
+      </p>
     </a>
   </li>
   <li>
     <a
-      href="/:id"
+      href="/Bobby Prince/0b27f6b8-96db-465e-a94e-5184f63e8fad"
     >
-      <ul>
-        <li>
-          Name: 
-          Bobby Prince
-        </li>
-        <li>
-          Id: 
-          0b27f6b8-96db-465e-a94e-5184f63e8fad
-        </li>
-      </ul>
+      <p>
+        Name: 
+        Bobby Prince
+      </p>
+      <p>
+        Id: 
+        0b27f6b8-96db-465e-a94e-5184f63e8fad
+      </p>
     </a>
   </li>
   <li>
     <a
-      href="/:id"
+      href="/Prince/7a983e1d-dda2-42cf-bf63-78cb2bd5c6f8"
     >
-      <ul>
-        <li>
-          Name: 
-          Prince
-        </li>
-        <li>
-          Id: 
-          7a983e1d-dda2-42cf-bf63-78cb2bd5c6f8
-        </li>
-      </ul>
+      <p>
+        Name: 
+        Prince
+      </p>
+      <p>
+        Id: 
+        7a983e1d-dda2-42cf-bf63-78cb2bd5c6f8
+      </p>
     </a>
   </li>
   <li>
     <a
-      href="/:id"
+      href="/Prince/660697b6-9332-4c9a-8a8e-a5b4ee8c54d1"
     >
-      <ul>
-        <li>
-          Name: 
-          Prince
-        </li>
-        <li>
-          Id: 
-          660697b6-9332-4c9a-8a8e-a5b4ee8c54d1
-        </li>
-      </ul>
+      <p>
+        Name: 
+        Prince
+      </p>
+      <p>
+        Id: 
+        660697b6-9332-4c9a-8a8e-a5b4ee8c54d1
+      </p>
     </a>
   </li>
   <li>
     <a
-      href="/:id"
+      href="/Prince/33cf14b6-ddab-4453-986c-6272876f4f9f"
     >
-      <ul>
-        <li>
-          Name: 
-          Prince
-        </li>
-        <li>
-          Id: 
-          33cf14b6-ddab-4453-986c-6272876f4f9f
-        </li>
-      </ul>
+      <p>
+        Name: 
+        Prince
+      </p>
+      <p>
+        Id: 
+        33cf14b6-ddab-4453-986c-6272876f4f9f
+      </p>
     </a>
   </li>
   <li>
     <a
-      href="/:id"
+      href="/Prince/e43beb57-a015-4ed9-bcd6-490674518a49"
     >
-      <ul>
-        <li>
-          Name: 
-          Prince
-        </li>
-        <li>
-          Id: 
-          e43beb57-a015-4ed9-bcd6-490674518a49
-        </li>
-      </ul>
+      <p>
+        Name: 
+        Prince
+      </p>
+      <p>
+        Id: 
+        e43beb57-a015-4ed9-bcd6-490674518a49
+      </p>
     </a>
   </li>
   <li>
     <a
-      href="/:id"
+      href="/Prince/6b773f61-96f1-41e4-9029-4d491dd39005"
     >
-      <ul>
-        <li>
-          Name: 
-          Prince
-        </li>
-        <li>
-          Id: 
-          6b773f61-96f1-41e4-9029-4d491dd39005
-        </li>
-      </ul>
+      <p>
+        Name: 
+        Prince
+      </p>
+      <p>
+        Id: 
+        6b773f61-96f1-41e4-9029-4d491dd39005
+      </p>
     </a>
   </li>
   <li>
     <a
-      href="/:id"
+      href="/Prince Buster/a1d32e75-2391-4d94-904e-13536304dcf6"
     >
-      <ul>
-        <li>
-          Name: 
-          Prince Buster
-        </li>
-        <li>
-          Id: 
-          a1d32e75-2391-4d94-904e-13536304dcf6
-        </li>
-      </ul>
-    </a>
-  </li>
-  <li>
-    <a
-      href="/:id"
-    >
-      <ul>
-        <li>
-          Name: 
-          Prince Jammy
-        </li>
-        <li>
-          Id: 
-          7d2f071d-ffa4-4ce7-bea2-0685374c1b2a
-        </li>
-      </ul>
-    </a>
-  </li>
-  <li>
-    <a
-      href="/:id"
-    >
-      <ul>
-        <li>
-          Name: 
-          Prince Paul
-        </li>
-        <li>
-          Id: 
-          50840ae7-d000-4858-8aac-bd776a12dafa
-        </li>
-      </ul>
-    </a>
-  </li>
-  <li>
-    <a
-      href="/:id"
-    >
-      <ul>
-        <li>
-          Name: 
-          Prince Royce
-        </li>
-        <li>
-          Id: 
-          d1689304-23ac-4eae-a147-bd2e4100581a
-        </li>
-      </ul>
-    </a>
-  </li>
-  <li>
-    <a
-      href="/:id"
-    >
-      <ul>
-        <li>
-          Name: 
-          Bonnie “Prince” Billy
-        </li>
-        <li>
-          Id: 
-          7b0a63b2-b8e8-490e-b724-1d30cb5edfe3
-        </li>
-      </ul>
-    </a>
-  </li>
-  <li>
-    <a
-      href="/:id"
-    >
-      <ul>
-        <li>
-          Name: 
-          Alexandra Prince
-        </li>
-        <li>
-          Id: 
-          4939dfab-2d9f-462a-aa12-8ff648248063
-        </li>
-      </ul>
-    </a>
-  </li>
-  <li>
-    <a
-      href="/:id"
-    >
-      <ul>
-        <li>
-          Name: 
-          Prince Jazzbo
-        </li>
-        <li>
-          Id: 
-          1751fa84-9e85-4c71-8330-2c7075dff06e
-        </li>
-      </ul>
-    </a>
-  </li>
-  <li>
-    <a
-      href="/:id"
-    >
-      <ul>
-        <li>
-          Name: 
-          Prince Alla
-        </li>
-        <li>
-          Id: 
-          e2b60aeb-ee20-410a-82f9-e6d273af0e45
-        </li>
-      </ul>
-    </a>
-  </li>
-  <li>
-    <a
-      href="/:id"
-    >
-      <ul>
-        <li>
-          Name: 
-          Prince Fatty
-        </li>
-        <li>
-          Id: 
-          e5c1825b-8d27-47de-9c6b-a2d6cde9be0a
-        </li>
-      </ul>
-    </a>
-  </li>
-  <li>
-    <a
-      href="/:id"
-    >
-      <ul>
-        <li>
-          Name: 
-          Prince Chrishan
-        </li>
-        <li>
-          Id: 
-          a6de053e-1f77-43cf-aab0-0337bf342bef
-        </li>
-      </ul>
-    </a>
-  </li>
-  <li>
-    <a
-      href="/:id"
-    >
-      <ul>
-        <li>
-          Name: 
-          Jay Prince
-        </li>
-        <li>
-          Id: 
-          ddefabde-c030-400f-94d8-3ab4f74a9e2f
-        </li>
-      </ul>
-    </a>
-  </li>
-  <li>
-    <a
-      href="/:id"
-    >
-      <ul>
-        <li>
-          Name: 
-          Prince Rama
-        </li>
-        <li>
-          Id: 
-          6ca24ff0-c0dd-4c37-8029-f052dafb1e4a
-        </li>
-      </ul>
-    </a>
-  </li>
-  <li>
-    <a
-      href="/:id"
-    >
-      <ul>
-        <li>
-          Name: 
-          Prince Po
-        </li>
-        <li>
-          Id: 
-          fcd1ceb1-6991-4cc5-bf4d-0e1ba70dc6a7
-        </li>
-      </ul>
-    </a>
-  </li>
-  <li>
-    <a
-      href="/:id"
-    >
-      <ul>
-        <li>
-          Name: 
-          The Revolution
-        </li>
-        <li>
-          Id: 
-          4c8ead39-b9df-4c56-a27c-51bc049cfd48
-        </li>
-      </ul>
-    </a>
-  </li>
-  <li>
-    <a
-      href="/:id"
-    >
-      <ul>
-        <li>
-          Name: 
-          Microwave Prince
-        </li>
-        <li>
-          Id: 
-          af6177c1-86b6-48a8-a19a-ff89869071af
-        </li>
-      </ul>
-    </a>
-  </li>
-  <li>
-    <a
-      href="/:id"
-    >
-      <ul>
-        <li>
-          Name: 
-          Tito Prince
-        </li>
-        <li>
-          Id: 
-          d4548a39-0b96-4fe4-86db-d8a9a1e13030
-        </li>
-      </ul>
+      <p>
+        Name: 
+        Prince Buster
+      </p>
+      <p>
+        Id: 
+        a1d32e75-2391-4d94-904e-13536304dcf6
+      </p>
     </a>
   </li>
 </ul>
