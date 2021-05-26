@@ -9,12 +9,14 @@ import LyricsContainer from '../../containers/LyricsContainer';
 export default function App() {
   return (
     <Router>
+
     <Switch>
       <Route exact path='/' component={SearchPageContainer}/>
       <Route exact path='/:id' component={ArtistContainer}/>
       <Route exact path='/albums/:artist/:id' component={SongsContainer}/>
       <Route exact path="/song/:artistid/:title" component={LyricsContainer}/>
     </Switch>
+
     </Router>
   );
 }
