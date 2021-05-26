@@ -2,28 +2,17 @@ import React, { useState, useEffect } from 'react';
 import AlbumList from '../components/artist/AlbumList';
 import Pagination from '../components/pagination/Pagination';
 import { useParams } from 'react-router-dom';
+import { getAlbums } from '../services/apiUtils';
 
 const ArtistContainer = () => {
   const { artistName, id } = useParams();
   const [artist, setArtist] = useState([]);
   const [loading, setLoading] = useState(true);
   const [currentPage, setCurrentPage] = useState(1);
-  const [perPage, setPerPage] = useState(10);
-
-  const getArtist = async (id) => {
-    const res = await fetch(
-      `http://musicbrainz.org/ws/2/release?artist=${id}&fmt=json`
-    );
-    const { releases } = await res.json();
-    return releases.map(({ title, id, date }) => ({
-      title,
-      id,
-      date,
-    }));
-  };
+  const [perPage] = useState(10);
 
   useEffect(() => {
-    getArtist(id)
+    getAlbums(id)
       .then(setArtist)
       .finally(() => setLoading(false));
   }, [currentPage]);
@@ -51,7 +40,11 @@ const ArtistContainer = () => {
   ) : (
     <>
       <main>
-        <AlbumList albums={paginatedAlbums} artistId={id} artistName={artistName} />
+        <AlbumList
+          albums={paginatedAlbums}
+          artistId={id}
+          artistName={artistName}
+        />
       </main>
       <Pagination
         onClick={handleButtonChange}

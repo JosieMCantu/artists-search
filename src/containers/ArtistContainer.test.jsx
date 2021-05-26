@@ -2,7 +2,7 @@
  * @jest-environment jsdom
  */
 import React from 'react';
-import { render, waitFor, screen } from '@testing-library/react';
+import { render, screen } from '@testing-library/react';
 import { rest } from 'msw';
 import { setupServer } from 'msw/node';
 import { MemoryRouter } from 'react-router';
@@ -11,6 +11,7 @@ import mockData from '../../albumFixtures/test.json';
 
 const server = setupServer(
   rest.get(
+    // eslint-disable-next-line max-len
     'http://musicbrainz.org/ws/2/release?artist=185527bf-c293-4c24-8213-ed98fb8976be&fmt=json',
     (req, res, ctx) => {
       return res(ctx.json(mockData));

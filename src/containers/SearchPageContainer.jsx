@@ -2,22 +2,10 @@ import React from 'react';
 import { useState, useEffect } from 'react';
 import SearchArtistList from '../components/search/SearchArtistList';
 import SearchControls from '../components/search/SearchControls';
-import Pagination from '../components/pagination/Pagination'; 
-
-//Service
-const getArtist = async (url) => {
-  // eslint-disable-next-line max-len
-  const res = await fetch(`http://musicbrainz.org/ws/2/artist?query=${url}&fmt=json&limit=25`);
-  const { artists } = await res.json();
-
-  return artists.map((item) => ({
-    id: item.id,
-    name: item.name,
-  }));
-};
+import Pagination from '../components/pagination/Pagination';
+import { getArtist } from '../services/apiUtils';
 
 const SearchPageContainer = () => {
-
   const [loading, setLoading] = useState();
   const [url, setUrl] = useState('');
   const [artist, setArtist] = useState([]);
@@ -36,15 +24,13 @@ const SearchPageContainer = () => {
     setLoading(false);
   };
 
-  
   useEffect(() => {
-    if(url.length > 0) {
+    if (url.length > 0) {
       getArtist(url)
         .then(setArtist)
         .finally(() => setLoading(false));
     }
   }, [currentPage]);
-  
 
   const setIndex = (currentPage, perPage, artist) => {
     const lastPerPage = currentPage * perPage;
@@ -64,14 +50,18 @@ const SearchPageContainer = () => {
     }
   };
 
-  if(loading){
-    return (<h1>Loading...</h1>);
+  if (loading) {
+    return <h1>Loading...</h1>;
   }
   return (
     <>
-      <SearchControls onChange={handleChange} onSubmit={handleSubmit} url={url} />
+      <SearchControls
+        onChange={handleChange}
+        onSubmit={handleSubmit}
+        url={url}
+      />
       <SearchArtistList artist={paginatedArtists} />
-      <Pagination 
+      <Pagination
         onClick={handleButtonChange}
         currentPage={currentPage}
         lastPage={lastPage}
