@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Fascinate&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Emblema+One&family=Fascinate&family=Roboto&display=swap');
 a {
   text-decoration: none;
 }
@@ -33,7 +33,7 @@ h2 {
 }
 
 input {
-  width: 30%;
+  /* width: 30%; */
   box-sizing: border-box;
   border: 3px solid #a3320b;
   padding: 10px;
@@ -64,6 +64,7 @@ button:hover {
   color: honeydew;
   background-color: #e6af2e;
 }
+
 button:active {
   transform: scale(0.9);
 }
@@ -72,11 +73,16 @@ label {
   font-family: 'Fascinate', cursive;
   color: #e6af2e;
   -webkit-text-stroke: 1px black;
+  text-shadow: -0.0625rem -0.0625rem 0 #fad784, 0.0625rem 0.0625rem 0 #d37170;
+  font-size: 2em;
+  width: 100%;
+  align-items: center;
 }
 
 p {
   /* font-family: 'Roboto', sans-serif; */
-  font-family: 'Fascinate', cursive;
+  font-family: 'Emblema One', cursive;
+
   color: #e6af2e;
   -webkit-text-stroke: 1px black;
 }
@@ -93,6 +99,8 @@ nav {
 header {
   display: flex;
   justify-content: center;
+  align-items: center;
+  width: 100%;
 }
 * {
   background-color: #f8f0e3;
@@ -107,4 +115,19 @@ header {
 div {
   display: flex;
   justify-content: center;
+}
+
+.listPoints {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+footer {
+  display: flex;
+  align-items: flex-end;
+}
+
+article {
+  font-family: 'Roboto', sans-serif;
 }

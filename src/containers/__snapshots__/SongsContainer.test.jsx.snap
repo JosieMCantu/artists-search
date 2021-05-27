@@ -3,6 +3,7 @@
 exports[`SongsContainer renders a list of releases by an artists 1`] = `
 <ul
   aria-label="songs"
+  class="listPoints"
 >
   <li>
     <a
