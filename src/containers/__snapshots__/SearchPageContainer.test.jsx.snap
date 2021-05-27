@@ -3,6 +3,7 @@
 exports[`SearchPageContainer tests renders the search page to the screen 1`] = `
 <ul
   aria-label="search"
+  class="listPoints"
 >
   <li>
     <a
@@ -36,6 +37,16 @@ exports[`SearchPageContainer tests renders the search page to the screen 1`] = `
   </li>
   <li>
     <a
+      href="/Prince/33cf14b6-ddab-4453-986c-6272876f4f9f"
+    >
+      <p>
+        Name: 
+        Prince
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
       href="/Prince/7a983e1d-dda2-42cf-bf63-78cb2bd5c6f8"
     >
       <p>
@@ -47,16 +58,6 @@ exports[`SearchPageContainer tests renders the search page to the screen 1`] = `
   <li>
     <a
       href="/Prince/e43beb57-a015-4ed9-bcd6-490674518a49"
-    >
-      <p>
-        Name: 
-        Prince
-      </p>
-    </a>
-  </li>
-  <li>
-    <a
-      href="/Prince/33cf14b6-ddab-4453-986c-6272876f4f9f"
     >
       <p>
         Name: 

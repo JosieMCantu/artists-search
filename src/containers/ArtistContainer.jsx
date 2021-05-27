@@ -3,6 +3,7 @@ import AlbumList from '../components/artist/AlbumList';
 import Pagination from '../components/pagination/Pagination';
 import { useParams } from 'react-router-dom';
 import { getAlbums } from '../services/apiUtils';
+import Spinner from '../components/spinner/Spinner';
 
 const ArtistContainer = () => {
   const { artistName, id } = useParams();
@@ -36,21 +37,28 @@ const ArtistContainer = () => {
   };
 
   return loading ? (
-    <h1>Loading...</h1>
+    <>
+      <Spinner />
+      <h1>Loading...</h1>
+    </>
   ) : (
     <>
       <main>
-        <AlbumList
-          albums={paginatedAlbums}
-          artistId={id}
-          artistName={artistName}
-        />
+        <section>
+          <AlbumList
+            albums={paginatedAlbums}
+            artistId={id}
+            artistName={artistName}
+          />
+        </section>
       </main>
-      <Pagination
-        onClick={handleButtonChange}
-        currentPage={currentPage}
-        lastPage={lastPage}
-      />
+      <footer>
+        <Pagination
+          onClick={handleButtonChange}
+          currentPage={currentPage}
+          lastPage={lastPage}
+        />
+      </footer>
     </>
   );
 };
