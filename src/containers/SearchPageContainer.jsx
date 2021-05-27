@@ -4,6 +4,8 @@ import SearchArtistList from '../components/search/SearchArtistList';
 import SearchControls from '../components/search/SearchControls';
 import Pagination from '../components/pagination/Pagination';
 import { getArtist } from '../services/apiUtils';
+import Spinner from '../components/spinner/Spinner';
+import Image from '../components/search/Image';
 
 const SearchPageContainer = () => {
   const [loading, setLoading] = useState();
@@ -51,22 +53,45 @@ const SearchPageContainer = () => {
   };
 
   if (loading) {
-    return <h1>Loading...</h1>;
+    return (
+      <>
+        <Spinner />
+        <h1>Loading...</h1>;
+      </>
+    );
   }
-  return (
-    <>
-      <SearchControls
-        onChange={handleChange}
-        onSubmit={handleSubmit}
-        url={url}
-      />
-      <SearchArtistList artist={paginatedArtists} />
+  return artist.length > 0 ? (
+    <main>
+      <header>
+        <SearchControls
+          onChange={handleChange}
+          onSubmit={handleSubmit}
+          url={url}
+        />
+      </header>
+
+      <section>
+        <SearchArtistList artist={paginatedArtists} />
+      </section>
       <Pagination
         onClick={handleButtonChange}
         currentPage={currentPage}
         lastPage={lastPage}
       />
-    </>
+    </main>
+  ) : (
+    <main>
+      <header>
+        <SearchControls
+          onChange={handleChange}
+          onSubmit={handleSubmit}
+          url={url}
+        />
+      </header>
+      <div>
+        <Image />
+      </div>
+    </main>
   );
 };
 
