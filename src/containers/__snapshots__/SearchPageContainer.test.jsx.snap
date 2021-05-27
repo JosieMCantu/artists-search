@@ -12,10 +12,6 @@ exports[`SearchPageContainer tests renders the search page to the screen 1`] = `
         Name: 
         Prince
       </p>
-      <p>
-        Id: 
-        070d193a-845c-479f-980e-bef15710653e
-      </p>
     </a>
   </li>
   <li>
@@ -25,10 +21,6 @@ exports[`SearchPageContainer tests renders the search page to the screen 1`] = `
       <p>
         Name: 
         Prince
-      </p>
-      <p>
-        Id: 
-        4d52342d-0584-43b3-86e2-e356221c2804
       </p>
     </a>
   </li>
@@ -40,24 +32,6 @@ exports[`SearchPageContainer tests renders the search page to the screen 1`] = `
         Name: 
         Prince
       </p>
-      <p>
-        Id: 
-        cdc0fff7-54cf-4052-a283-319b648670fd
-      </p>
-    </a>
-  </li>
-  <li>
-    <a
-      href="/Prince/33cf14b6-ddab-4453-986c-6272876f4f9f"
-    >
-      <p>
-        Name: 
-        Prince
-      </p>
-      <p>
-        Id: 
-        33cf14b6-ddab-4453-986c-6272876f4f9f
-      </p>
     </a>
   </li>
   <li>
@@ -67,10 +41,6 @@ exports[`SearchPageContainer tests renders the search page to the screen 1`] = `
       <p>
         Name: 
         Prince
-      </p>
-      <p>
-        Id: 
-        7a983e1d-dda2-42cf-bf63-78cb2bd5c6f8
       </p>
     </a>
   </li>
@@ -82,9 +52,15 @@ exports[`SearchPageContainer tests renders the search page to the screen 1`] = `
         Name: 
         Prince
       </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/Prince/33cf14b6-ddab-4453-986c-6272876f4f9f"
+    >
       <p>
-        Id: 
-        e43beb57-a015-4ed9-bcd6-490674518a49
+        Name: 
+        Prince
       </p>
     </a>
   </li>
@@ -96,10 +72,6 @@ exports[`SearchPageContainer tests renders the search page to the screen 1`] = `
         Name: 
         Prince
       </p>
-      <p>
-        Id: 
-        660697b6-9332-4c9a-8a8e-a5b4ee8c54d1
-      </p>
     </a>
   </li>
   <li>
@@ -109,10 +81,6 @@ exports[`SearchPageContainer tests renders the search page to the screen 1`] = `
       <p>
         Name: 
         Prince
-      </p>
-      <p>
-        Id: 
-        6b773f61-96f1-41e4-9029-4d491dd39005
       </p>
     </a>
   </li>
@@ -124,10 +92,6 @@ exports[`SearchPageContainer tests renders the search page to the screen 1`] = `
         Name: 
         Bobby Prince
       </p>
-      <p>
-        Id: 
-        0b27f6b8-96db-465e-a94e-5184f63e8fad
-      </p>
     </a>
   </li>
   <li>
@@ -137,10 +101,6 @@ exports[`SearchPageContainer tests renders the search page to the screen 1`] = `
       <p>
         Name: 
         Prince Buster
-      </p>
-      <p>
-        Id: 
-        a1d32e75-2391-4d94-904e-13536304dcf6
       </p>
     </a>
   </li>
