@@ -36,27 +36,17 @@ exports[`SearchPageContainer tests renders the search page to the screen 1`] = `
   </li>
   <li>
     <a
+      href="/Bobby Prince/0b27f6b8-96db-465e-a94e-5184f63e8fad"
+    >
+      <p>
+        Name: 
+        Bobby Prince
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
       href="/Prince/7a983e1d-dda2-42cf-bf63-78cb2bd5c6f8"
-    >
-      <p>
-        Name: 
-        Prince
-      </p>
-    </a>
-  </li>
-  <li>
-    <a
-      href="/Prince/e43beb57-a015-4ed9-bcd6-490674518a49"
-    >
-      <p>
-        Name: 
-        Prince
-      </p>
-    </a>
-  </li>
-  <li>
-    <a
-      href="/Prince/33cf14b6-ddab-4453-986c-6272876f4f9f"
     >
       <p>
         Name: 
@@ -76,7 +66,7 @@ exports[`SearchPageContainer tests renders the search page to the screen 1`] = `
   </li>
   <li>
     <a
-      href="/Prince/6b773f61-96f1-41e4-9029-4d491dd39005"
+      href="/Prince/33cf14b6-ddab-4453-986c-6272876f4f9f"
     >
       <p>
         Name: 
@@ -86,11 +76,21 @@ exports[`SearchPageContainer tests renders the search page to the screen 1`] = `
   </li>
   <li>
     <a
-      href="/Bobby Prince/0b27f6b8-96db-465e-a94e-5184f63e8fad"
+      href="/Prince/e43beb57-a015-4ed9-bcd6-490674518a49"
     >
       <p>
         Name: 
-        Bobby Prince
+        Prince
+      </p>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/Prince/6b773f61-96f1-41e4-9029-4d491dd39005"
+    >
+      <p>
+        Name: 
+        Prince
       </p>
     </a>
   </li>
