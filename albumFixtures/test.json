@@ -1,0 +1,1031 @@
+{
+    "release-count": 50,
+    "release-offset": 0,
+    "releases": [
+        {
+            "cover-art-archive": {
+                "back": false,
+                "count": 0,
+                "darkened": false,
+                "front": false,
+                "artwork": false
+            },
+            "country": "JP",
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "title": "Sleepwalker",
+            "barcode": null,
+            "quality": "normal",
+            "packaging": null,
+            "asin": null,
+            "disambiguation": "",
+            "id": "06836153-5b48-4daf-80c4-7c19950915af",
+            "packaging-id": null,
+            "release-events": [
+                {
+                    "area": {
+                        "type-id": null,
+                        "iso-3166-1-codes": [
+                            "JP"
+                        ],
+                        "disambiguation": "",
+                        "id": "2db42837-c832-3c27-b4a3-08198f75693c",
+                        "name": "Japan",
+                        "type": null,
+                        "sort-name": "Japan"
+                    },
+                    "date": "2013-01-15"
+                }
+            ],
+            "status": "Official",
+            "text-representation": {
+                "language": "eng",
+                "script": "Latn"
+            },
+            "date": "2013-01-15"
+        },
+        {
+            "date": "2014-02-18",
+            "release-events": [
+                {
+                    "area": {
+                        "type-id": null,
+                        "iso-3166-1-codes": [
+                            "US"
+                        ],
+                        "disambiguation": "",
+                        "id": "489ce91b-6658-3307-9877-795b68554c98",
+                        "name": "United States",
+                        "type": null,
+                        "sort-name": "United States"
+                    },
+                    "date": "2014-02-18"
+                }
+            ],
+            "status": "Official",
+            "text-representation": {
+                "script": "Latn",
+                "language": "eng"
+            },
+            "barcode": "656605224411",
+            "packaging": null,
+            "quality": "normal",
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "title": "Burn Your Fire for No Witness",
+            "id": "0941ef5e-7ed7-476a-9535-cd034c871413",
+            "packaging-id": null,
+            "asin": null,
+            "disambiguation": "",
+            "country": "US",
+            "cover-art-archive": {
+                "darkened": false,
+                "front": false,
+                "artwork": false,
+                "back": false,
+                "count": 0
+            }
+        },
+        {
+            "release-events": [
+                {
+                    "date": "2011-04-11",
+                    "area": {
+                        "type-id": null,
+                        "disambiguation": "",
+                        "iso-3166-1-codes": [
+                            "US"
+                        ],
+                        "id": "489ce91b-6658-3307-9877-795b68554c98",
+                        "name": "United States",
+                        "type": null,
+                        "sort-name": "United States"
+                    }
+                }
+            ],
+            "text-representation": {
+                "script": "Latn",
+                "language": "eng"
+            },
+            "status": "Official",
+            "date": "2011-04-11",
+            "cover-art-archive": {
+                "back": false,
+                "count": 1,
+                "darkened": false,
+                "front": true,
+                "artwork": true
+            },
+            "country": "US",
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "title": "Strange Cacti",
+            "packaging": "None",
+            "quality": "normal",
+            "barcode": "881034735799",
+            "disambiguation": "",
+            "asin": "B004S8QM2A",
+            "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+            "id": "09d18bc2-4fa0-40ce-bc66-3e51193cdaf3"
+        },
+        {
+            "asin": "B00BSWMK0W",
+            "disambiguation": "",
+            "id": "22a58429-7256-4933-aa2c-f6e525947fdd",
+            "packaging-id": "e724a489-a7e8-30a1-a17c-30dfd6831202",
+            "title": "Half Way Home",
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "barcode": "656605760520",
+            "quality": "normal",
+            "packaging": "Gatefold Cover",
+            "cover-art-archive": {
+                "artwork": false,
+                "darkened": false,
+                "front": false,
+                "count": 0,
+                "back": false
+            },
+            "country": "US",
+            "date": "2013-04-15",
+            "status": "Official",
+            "text-representation": {
+                "language": "eng",
+                "script": "Latn"
+            },
+            "release-events": [
+                {
+                    "date": "2013-04-15",
+                    "area": {
+                        "name": "United States",
+                        "type": null,
+                        "sort-name": "United States",
+                        "type-id": null,
+                        "disambiguation": "",
+                        "iso-3166-1-codes": [
+                            "US"
+                        ],
+                        "id": "489ce91b-6658-3307-9877-795b68554c98"
+                    }
+                }
+            ]
+        },
+        {
+            "release-events": [
+                {
+                    "date": "2012-09-04",
+                    "area": {
+                        "disambiguation": "",
+                        "iso-3166-1-codes": [
+                            "US"
+                        ],
+                        "type-id": null,
+                        "id": "489ce91b-6658-3307-9877-795b68554c98",
+                        "type": null,
+                        "name": "United States",
+                        "sort-name": "United States"
+                    }
+                }
+            ],
+            "status": "Official",
+            "text-representation": {
+                "script": "Latn",
+                "language": "eng"
+            },
+            "date": "2012-09-04",
+            "cover-art-archive": {
+                "artwork": true,
+                "front": true,
+                "darkened": false,
+                "count": 1,
+                "back": false
+            },
+            "country": "US",
+            "title": "Half Way Home",
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "barcode": "",
+            "quality": "normal",
+            "packaging": "None",
+            "asin": null,
+            "disambiguation": "",
+            "id": "27eb8ffe-14c0-4fe9-bd65-f4ea6d5071d4",
+            "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b"
+        },
+        {
+            "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+            "id": "2aa1624c-9387-47c6-b177-0ff06bf12bac",
+            "disambiguation": "",
+            "asin": null,
+            "packaging": "None",
+            "quality": "normal",
+            "barcode": "",
+            "title": "Lady of the Water Park",
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "country": "XW",
+            "cover-art-archive": {
+                "artwork": true,
+                "darkened": false,
+                "front": true,
+                "count": 1,
+                "back": false
+            },
+            "date": "2010-09-23",
+            "text-representation": {
+                "script": "Latn",
+                "language": "eng"
+            },
+            "status": "Official",
+            "release-events": [
+                {
+                    "date": "2010-09-23",
+                    "area": {
+                        "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                        "type-id": null,
+                        "iso-3166-1-codes": [
+                            "XW"
+                        ],
+                        "disambiguation": "",
+                        "sort-name": "[Worldwide]",
+                        "name": "[Worldwide]",
+                        "type": null
+                    }
+                }
+            ]
+        },
+        {
+            "id": "362f6250-d540-49df-a016-f791e62de145",
+            "packaging-id": "e724a489-a7e8-30a1-a17c-30dfd6831202",
+            "asin": "B00GNM6SQO",
+            "disambiguation": "",
+            "barcode": "656605224428",
+            "quality": "normal",
+            "packaging": "Gatefold Cover",
+            "title": "Burn Your Fire for No Witness",
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "country": "US",
+            "cover-art-archive": {
+                "count": 2,
+                "back": true,
+                "artwork": true,
+                "front": true,
+                "darkened": false
+            },
+            "date": "2014-02-18",
+            "status": "Official",
+            "text-representation": {
+                "script": "Latn",
+                "language": "eng"
+            },
+            "release-events": [
+                {
+                    "date": "2014-02-18",
+                    "area": {
+                        "name": "United States",
+                        "type": null,
+                        "sort-name": "United States",
+                        "type-id": null,
+                        "iso-3166-1-codes": [
+                            "US"
+                        ],
+                        "disambiguation": "",
+                        "id": "489ce91b-6658-3307-9877-795b68554c98"
+                    }
+                }
+            ]
+        },
+        {
+            "text-representation": {
+                "language": "eng",
+                "script": "Latn"
+            },
+            "status": "Official",
+            "release-events": [
+                {
+                    "date": "2016-08-24",
+                    "area": {
+                        "name": "[Worldwide]",
+                        "type": null,
+                        "sort-name": "[Worldwide]",
+                        "type-id": null,
+                        "disambiguation": "",
+                        "iso-3166-1-codes": [
+                            "XW"
+                        ],
+                        "id": "525d4e18-3d00-31b9-a58b-a146a916de8f"
+                    }
+                }
+            ],
+            "date": "2016-08-24",
+            "country": "XW",
+            "cover-art-archive": {
+                "count": 0,
+                "back": false,
+                "artwork": false,
+                "front": false,
+                "darkened": false
+            },
+            "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+            "id": "3dad46a2-3b04-47e7-9062-a97b7ee1737e",
+            "disambiguation": "music video",
+            "asin": null,
+            "packaging": "None",
+            "quality": "normal",
+            "barcode": null,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "title": "Sister"
+        },
+        {
+            "text-representation": {
+                "script": "Latn",
+                "language": "eng"
+            },
+            "status": "Official",
+            "release-events": [
+                {
+                    "date": "2014-02-18",
+                    "area": {
+                        "disambiguation": "",
+                        "iso-3166-1-codes": [
+                            "US"
+                        ],
+                        "type-id": null,
+                        "id": "489ce91b-6658-3307-9877-795b68554c98",
+                        "type": null,
+                        "name": "United States",
+                        "sort-name": "United States"
+                    }
+                }
+            ],
+            "date": "2014-02-18",
+            "country": "US",
+            "cover-art-archive": {
+                "darkened": false,
+                "front": true,
+                "artwork": true,
+                "back": false,
+                "count": 1
+            },
+            "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+            "id": "4c7740ef-9aed-4914-8ddf-f618c7c98457",
+            "disambiguation": "",
+            "asin": null,
+            "packaging": "None",
+            "quality": "normal",
+            "barcode": null,
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "title": "Burn Your Fire for No Witness"
+        },
+        {
+            "release-events": [
+                {
+                    "date": "2014-01-10",
+                    "area": {
+                        "sort-name": "[Worldwide]",
+                        "type": null,
+                        "name": "[Worldwide]",
+                        "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                        "disambiguation": "",
+                        "iso-3166-1-codes": [
+                            "XW"
+                        ],
+                        "type-id": null
+                    }
+                }
+            ],
+            "status": "Official",
+            "text-representation": {
+                "script": "Latn",
+                "language": "eng"
+            },
+            "date": "2014-01-10",
+            "country": "XW",
+            "cover-art-archive": {
+                "count": 0,
+                "back": false,
+                "artwork": false,
+                "darkened": false,
+                "front": false
+            },
+            "barcode": "656605224459",
+            "quality": "normal",
+            "packaging": "None",
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "title": "Hi‐Five",
+            "id": "562c6071-2f38-4b1b-bb3f-7e2a9dfa18e3",
+            "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+            "asin": null,
+            "disambiguation": ""
+        },
+        {
+            "id": "64d6e552-18fc-48bc-b49b-6a8808855542",
+            "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+            "asin": null,
+            "disambiguation": "music video",
+            "barcode": null,
+            "packaging": "None",
+            "quality": "normal",
+            "title": "Forgiven/Forgotten",
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "country": "XW",
+            "cover-art-archive": {
+                "count": 0,
+                "back": false,
+                "artwork": false,
+                "front": false,
+                "darkened": false
+            },
+            "date": "2013-12-05",
+            "status": "Official",
+            "text-representation": {
+                "script": "Latn",
+                "language": "eng"
+            },
+            "release-events": [
+                {
+                    "date": "2013-12-05",
+                    "area": {
+                        "type": null,
+                        "name": "[Worldwide]",
+                        "sort-name": "[Worldwide]",
+                        "iso-3166-1-codes": [
+                            "XW"
+                        ],
+                        "disambiguation": "",
+                        "type-id": null,
+                        "id": "525d4e18-3d00-31b9-a58b-a146a916de8f"
+                    }
+                }
+            ]
+        },
+        {
+            "release-events": [
+                {
+                    "date": "2014-11-18",
+                    "area": {
+                        "sort-name": "United States",
+                        "type": null,
+                        "name": "United States",
+                        "id": "489ce91b-6658-3307-9877-795b68554c98",
+                        "disambiguation": "",
+                        "iso-3166-1-codes": [
+                            "US"
+                        ],
+                        "type-id": null
+                    }
+                }
+            ],
+            "text-representation": {
+                "language": "eng",
+                "script": "Latn"
+            },
+            "status": "Official",
+            "date": "2014-11-18",
+            "cover-art-archive": {
+                "darkened": false,
+                "front": true,
+                "artwork": true,
+                "back": false,
+                "count": 1
+            },
+            "country": "US",
+            "title": "Burn Your Fire for No Witness",
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "packaging": "None",
+            "quality": "normal",
+            "barcode": "",
+            "disambiguation": "Deluxe Edition",
+            "asin": null,
+            "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+            "id": "68fbee4a-3c04-4afa-bbc6-65ee5208d1d3"
+        },
+        {
+            "date": "2013-11-14",
+            "status": "Official",
+            "text-representation": {
+                "language": "eng",
+                "script": "Latn"
+            },
+            "release-events": [
+                {
+                    "date": "2013-11-14",
+                    "area": {
+                        "sort-name": "[Worldwide]",
+                        "name": "[Worldwide]",
+                        "type": null,
+                        "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                        "type-id": null,
+                        "iso-3166-1-codes": [
+                            "XW"
+                        ],
+                        "disambiguation": ""
+                    }
+                }
+            ],
+            "id": "8e3ceb6d-2284-4f22-a093-3bb185ed9ea7",
+            "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+            "asin": null,
+            "disambiguation": "",
+            "barcode": "656605224442",
+            "packaging": "None",
+            "quality": "normal",
+            "title": "Forgiven/Forgotten",
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "country": "XW",
+            "cover-art-archive": {
+                "count": 0,
+                "back": false,
+                "artwork": false,
+                "front": false,
+                "darkened": false
+            }
+        },
+        {
+            "release-events": [
+                {
+                    "date": "2013-01-20",
+                    "area": {
+                        "type": null,
+                        "name": "United States",
+                        "sort-name": "United States",
+                        "iso-3166-1-codes": [
+                            "US"
+                        ],
+                        "disambiguation": "",
+                        "type-id": null,
+                        "id": "489ce91b-6658-3307-9877-795b68554c98"
+                    }
+                }
+            ],
+            "status": "Official",
+            "text-representation": {
+                "script": "Latn",
+                "language": "eng"
+            },
+            "date": "2013-01-20",
+            "country": "US",
+            "cover-art-archive": {
+                "front": true,
+                "darkened": false,
+                "artwork": true,
+                "back": false,
+                "count": 1
+            },
+            "barcode": null,
+            "quality": "normal",
+            "packaging": "None",
+            "title": "Sleepwalker",
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "id": "a0ee0fad-4877-4cdd-96f9-8d46b590951f",
+            "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+            "asin": null,
+            "disambiguation": ""
+        },
+        {
+            "text-representation": {
+                "language": "eng",
+                "script": "Latn"
+            },
+            "status": "Official",
+            "release-events": [
+                {
+                    "date": "2010-09",
+                    "area": {
+                        "iso-3166-1-codes": [
+                            "US"
+                        ],
+                        "disambiguation": "",
+                        "type-id": null,
+                        "id": "489ce91b-6658-3307-9877-795b68554c98",
+                        "type": null,
+                        "name": "United States",
+                        "sort-name": "United States"
+                    }
+                }
+            ],
+            "date": "2010-09",
+            "cover-art-archive": {
+                "count": 0,
+                "back": false,
+                "artwork": false,
+                "front": false,
+                "darkened": false
+            },
+            "country": "US",
+            "disambiguation": "",
+            "asin": null,
+            "packaging-id": null,
+            "id": "a7527bee-99db-4c84-bf0b-37bcb33ebf3a",
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "title": "Lady of the Waterpark",
+            "packaging": null,
+            "quality": "normal",
+            "barcode": null
+        },
+        {
+            "barcode": "656605483566",
+            "packaging": "None",
+            "quality": "normal",
+            "title": "Tim Kinsella Sings the Songs of Marvin Tate by Leroy Bach",
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "id": "a8c2e452-c469-467c-94c4-e2f9ce71752e",
+            "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+            "asin": null,
+            "disambiguation": "",
+            "country": "US",
+            "cover-art-archive": {
+                "darkened": false,
+                "front": true,
+                "artwork": true,
+                "back": false,
+                "count": 1
+            },
+            "date": "2013-12-03",
+            "release-events": [
+                {
+                    "date": "2013-12-03",
+                    "area": {
+                        "sort-name": "United States",
+                        "name": "United States",
+                        "type": null,
+                        "id": "489ce91b-6658-3307-9877-795b68554c98",
+                        "type-id": null,
+                        "iso-3166-1-codes": [
+                            "US"
+                        ],
+                        "disambiguation": ""
+                    }
+                }
+            ],
+            "status": "Official",
+            "text-representation": {
+                "script": "Latn",
+                "language": "eng"
+            }
+        },
+        {
+            "release-events": [
+                {
+                    "area": {
+                        "name": "[Worldwide]",
+                        "type": null,
+                        "sort-name": "[Worldwide]",
+                        "type-id": null,
+                        "disambiguation": "",
+                        "iso-3166-1-codes": [
+                            "XW"
+                        ],
+                        "id": "525d4e18-3d00-31b9-a58b-a146a916de8f"
+                    },
+                    "date": "2014-11-08"
+                }
+            ],
+            "text-representation": {
+                "language": "eng",
+                "script": "Latn"
+            },
+            "status": "Official",
+            "date": "2014-11-08",
+            "cover-art-archive": {
+                "count": 0,
+                "back": false,
+                "artwork": false,
+                "front": false,
+                "darkened": false
+            },
+            "country": "XW",
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "title": "Windows",
+            "quality": "normal",
+            "packaging": "None",
+            "barcode": null,
+            "disambiguation": "music video",
+            "asin": null,
+            "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+            "id": "ae411df8-833d-4a9e-acc9-0346689d039d"
+        },
+        {
+            "date": "2014-11-18",
+            "release-events": [
+                {
+                    "area": {
+                        "type": null,
+                        "name": "United Kingdom",
+                        "sort-name": "United Kingdom",
+                        "disambiguation": "",
+                        "iso-3166-1-codes": [
+                            "GB"
+                        ],
+                        "type-id": null,
+                        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed"
+                    },
+                    "date": "2014-11-18"
+                }
+            ],
+            "text-representation": {
+                "language": "eng",
+                "script": "Latn"
+            },
+            "status": "Official",
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "title": "Burn Your Fire for No Witness",
+            "packaging": null,
+            "quality": "normal",
+            "barcode": "656605224480",
+            "disambiguation": "",
+            "asin": null,
+            "packaging-id": null,
+            "id": "c494eba9-f34e-43f3-94d3-63ec97b17d8e",
+            "cover-art-archive": {
+                "count": 9,
+                "back": false,
+                "artwork": true,
+                "front": true,
+                "darkened": false
+            },
+            "country": "GB"
+        },
+        {
+            "date": "2011-04-11",
+            "release-events": [
+                {
+                    "date": "2011-04-11",
+                    "area": {
+                        "name": "United States",
+                        "type": null,
+                        "sort-name": "United States",
+                        "type-id": null,
+                        "iso-3166-1-codes": [
+                            "US"
+                        ],
+                        "disambiguation": "",
+                        "id": "489ce91b-6658-3307-9877-795b68554c98"
+                    }
+                }
+            ],
+            "text-representation": {
+                "language": "eng",
+                "script": "Latn"
+            },
+            "status": "Official",
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "title": "Strange Cacti",
+            "quality": "normal",
+            "packaging": null,
+            "barcode": "",
+            "disambiguation": "",
+            "asin": null,
+            "packaging-id": null,
+            "id": "c64afda7-71f2-4ee7-95df-6d772086024e",
+            "cover-art-archive": {
+                "artwork": false,
+                "front": false,
+                "darkened": false,
+                "count": 0,
+                "back": false
+            },
+            "country": "US"
+        },
+        {
+            "disambiguation": "",
+            "asin": null,
+            "packaging-id": null,
+            "id": "cf928700-a3ca-463e-947c-e7e731bdaac4",
+            "title": "Half Way Home",
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "quality": "normal",
+            "packaging": null,
+            "barcode": "887158173233",
+            "cover-art-archive": {
+                "front": true,
+                "darkened": false,
+                "artwork": true,
+                "back": false,
+                "count": 1
+            },
+            "country": "US",
+            "date": "2012-09-04",
+            "text-representation": {
+                "script": "Latn",
+                "language": "eng"
+            },
+            "status": "Official",
+            "release-events": [
+                {
+                    "date": "2012-09-04",
+                    "area": {
+                        "name": "United States",
+                        "type": null,
+                        "sort-name": "United States",
+                        "type-id": null,
+                        "disambiguation": "",
+                        "iso-3166-1-codes": [
+                            "US"
+                        ],
+                        "id": "489ce91b-6658-3307-9877-795b68554c98"
+                    }
+                }
+            ]
+        },
+        {
+            "barcode": null,
+            "quality": "normal",
+            "packaging": "None",
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "title": "Hi‐Five",
+            "id": "d38f7a5b-9e91-4bc1-808c-f2df88c42380",
+            "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+            "asin": null,
+            "disambiguation": "music video",
+            "country": "XW",
+            "cover-art-archive": {
+                "back": false,
+                "count": 0,
+                "darkened": false,
+                "front": false,
+                "artwork": false
+            },
+            "date": "2014-02-03",
+            "release-events": [
+                {
+                    "area": {
+                        "name": "[Worldwide]",
+                        "type": null,
+                        "sort-name": "[Worldwide]",
+                        "type-id": null,
+                        "disambiguation": "",
+                        "iso-3166-1-codes": [
+                            "XW"
+                        ],
+                        "id": "525d4e18-3d00-31b9-a58b-a146a916de8f"
+                    },
+                    "date": "2014-02-03"
+                }
+            ],
+            "status": "Official",
+            "text-representation": {
+                "script": "Latn",
+                "language": "eng"
+            }
+        },
+        {
+            "cover-art-archive": {
+                "count": 1,
+                "back": false,
+                "artwork": true,
+                "front": true,
+                "darkened": false
+            },
+            "country": "US",
+            "asin": "B01GOOTTUW",
+            "disambiguation": "",
+            "id": "d7426b92-e23c-4d2b-98c3-c737ac038bf5",
+            "packaging-id": null,
+            "title": "My Woman",
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "barcode": "656605228426",
+            "quality": "normal",
+            "packaging": null,
+            "status": "Official",
+            "text-representation": {
+                "language": "eng",
+                "script": "Latn"
+            },
+            "release-events": [
+                {
+                    "date": "2016-09-02",
+                    "area": {
+                        "name": "United States",
+                        "type": null,
+                        "sort-name": "United States",
+                        "type-id": null,
+                        "iso-3166-1-codes": [
+                            "US"
+                        ],
+                        "disambiguation": "",
+                        "id": "489ce91b-6658-3307-9877-795b68554c98"
+                    }
+                }
+            ],
+            "date": "2016-09-02"
+        },
+        {
+            "date": "2016-06-29",
+            "release-events": [
+                {
+                    "area": {
+                        "sort-name": "[Worldwide]",
+                        "type": null,
+                        "name": "[Worldwide]",
+                        "id": "525d4e18-3d00-31b9-a58b-a146a916de8f",
+                        "disambiguation": "",
+                        "iso-3166-1-codes": [
+                            "XW"
+                        ],
+                        "type-id": null
+                    },
+                    "date": "2016-06-29"
+                }
+            ],
+            "status": "Official",
+            "text-representation": {
+                "language": "eng",
+                "script": "Latn"
+            },
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "title": "Shut Up Kiss Me",
+            "barcode": null,
+            "quality": "normal",
+            "packaging": "None",
+            "asin": null,
+            "disambiguation": "music video",
+            "id": "df140aaf-09ef-4052-9bc3-2b990c021786",
+            "packaging-id": "119eba76-b343-3e02-a292-f0f00644bb9b",
+            "cover-art-archive": {
+                "back": false,
+                "count": 0,
+                "darkened": false,
+                "front": false,
+                "artwork": false
+            },
+            "country": "XW"
+        },
+        {
+            "disambiguation": "",
+            "asin": null,
+            "packaging-id": null,
+            "id": "fd2990b8-a0ac-44ac-ae66-77a5393157ef",
+            "title": "Endless Road, May As Well",
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "quality": "normal",
+            "packaging": null,
+            "barcode": "656605224374",
+            "cover-art-archive": {
+                "count": 0,
+                "back": false,
+                "artwork": false,
+                "darkened": false,
+                "front": false
+            },
+            "country": "US",
+            "date": "2014",
+            "text-representation": {
+                "script": "Latn",
+                "language": "eng"
+            },
+            "status": "Official",
+            "release-events": [
+                {
+                    "date": "2014",
+                    "area": {
+                        "id": "489ce91b-6658-3307-9877-795b68554c98",
+                        "iso-3166-1-codes": [
+                            "US"
+                        ],
+                        "disambiguation": "",
+                        "type-id": null,
+                        "sort-name": "United States",
+                        "type": null,
+                        "name": "United States"
+                    }
+                }
+            ]
+        },
+        {
+            "release-events": [
+                {
+                    "area": {
+                        "iso-3166-1-codes": [
+                            "GB"
+                        ],
+                        "disambiguation": "",
+                        "type-id": null,
+                        "id": "8a754a16-0027-3a29-b6d7-2b40ea0481ed",
+                        "type": null,
+                        "name": "United Kingdom",
+                        "sort-name": "United Kingdom"
+                    },
+                    "date": "2016-09-02"
+                }
+            ],
+            "status": "Official",
+            "text-representation": {
+                "language": "eng",
+                "script": "Latn"
+            },
+            "date": "2016-09-02",
+            "country": "GB",
+            "cover-art-archive": {
+                "count": 0,
+                "back": false,
+                "artwork": false,
+                "darkened": false,
+                "front": false
+            },
+            "barcode": "656605228426",
+            "packaging": null,
+            "quality": "normal",
+            "title": "My Woman",
+            "status-id": "4e304316-386d-3409-af2e-78857eec5cfe",
+            "id": "ffed0af5-c43a-46d9-89b5-8fe5f6485873",
+            "packaging-id": null,
+            "asin": null,
+            "disambiguation": ""
+        }
+    ]
+}

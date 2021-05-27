@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SongsContainer renders a list of releases by an artists 1`] = `
+<ul
+  aria-label="songs"
+  class="listPoints"
+>
+  <li>
+    <a
+      href="/song/undefined/h³æ"
+    >
+      <div>
+        <p>
+          h³æ
+        </p>
+      </div>
+    </a>
+  </li>
+  <li>
+    <a
+      href="/song/undefined/æ³o"
+    >
+      <div>
+        <p>
+          æ³o
+        </p>
+      </div>
+    </a>
+  </li>
+</ul>
+`;
+
+exports[`SongsContainer renders a loading element 1`] = `
+<h1>
+  LOADING...
+</h1>
+`;
